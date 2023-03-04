@@ -1,2 +1,2 @@
-# haki31337.github.io1
+# haki31337.github.io
 Blog
